@@ -17,7 +17,7 @@
   - salary
   - languages
 - Overrides:
-  - displayInfo() → shows id, name, salary.
+  - displayInfo() → shows id, name, salary, languages.
 
 ---
 
@@ -27,7 +27,7 @@
   - salary
   - qualification
 - Overrides:
-  - displayInfo() → shows id, name, salary.
+  - displayInfo() → shows id, name, salary, qulification.
 
 ---
 

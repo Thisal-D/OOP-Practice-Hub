@@ -53,7 +53,8 @@ Design a Java program that demonstrates **bi-directional association** between a
 - **Constructor:**  
   Ward(int id, String name, int staffCount)
 - **Methods:**
-  - void addStaff(Staff s)  
+  - void addStaff(Staff s)
+    - Validate staff count...   
   - void displayInfo()  
     → prints id, name, then invokes displayInfo() on each Staff
 

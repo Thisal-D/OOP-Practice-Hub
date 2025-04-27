@@ -12,7 +12,7 @@
 ---
 
 ### 2. SoftwareEngineer (Child Class of Employee)
-- Inherits from Person.
+- Inherits from Employee.
 - Adds:
   - salary
   - languages
@@ -22,7 +22,7 @@
 ---
 
 ### 3. ProjectManager (Child Class of Employee)
-- Inherits from Person.
+- Inherits from Employee.
 - Adds:
   - salary
   - qualification

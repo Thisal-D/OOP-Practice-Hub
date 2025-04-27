@@ -15,7 +15,7 @@
 - Inherits from Employee.
 - Adds:
   - salary
-  - languages
+  - languages: String[]
 - Overrides:
   - displayInfo() → shows id, name, salary, languages.
 

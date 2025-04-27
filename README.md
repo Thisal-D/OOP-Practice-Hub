@@ -7,7 +7,7 @@
   - id
   - name
 - Common method:
-  - displayInfo() (to be *overridden* by child classes)
+  - displayInfo() → shows id, name (to be *overridden* by child classes)
 
 ---
 

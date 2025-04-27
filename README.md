@@ -1,4 +1,4 @@
-# 🏗 Project Structure (with Inheritance, Association, Polymorphism, Override)
+
 
 ## 📚 Classes and Their Responsibilities
 

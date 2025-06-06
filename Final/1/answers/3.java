@@ -1,5 +1,8 @@
 
+import java.net.Socket;
 import java.util.Scanner;
+
+import javax.print.attribute.standard.MediaSize.ISO;
 
 // Custom exception class for invalid email format
 class InvalidEmailFormat extends Exception {
@@ -27,7 +30,15 @@ class ValidationApp {
 
         // Validate email
         try {
-            if (!email.contains("@")) {
+            boolean isEmailValid = false;
+            // Go though the email and check if '@' exist in any index
+            for (int i = 0; i < email.length(); i++) {
+                if (email.charAt(i) == '@') {
+                    isEmailValid = true;
+                    break; // if '@' exist then break the loop, because no point of going though next part
+                }
+            }
+            if (!isEmailValid) {
                 throw new InvalidEmailFormat();
             }
             System.out.println("Email adrress is valid :).");

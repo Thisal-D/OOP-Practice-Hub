@@ -26,7 +26,7 @@ class GradeValidationApp {
         try {
 
             // Validate Student ID format
-            if (!studentId.startsWith("S") || studentId.length() > 6) {
+            if (studentId.charAt(0) != 'S' || studentId.length() > 6) {
                 throw new InvalidStudentID();
             }
 

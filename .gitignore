@@ -1,4 +1,4 @@
-Final/3/answers/*
+*.class
 Final/4/*
 Final/5/*
 Final/6/*
@@ -6,3 +6,9 @@ Final/7/*
 Final/8/*
 Final/9/*
 Final/10/*
+Solid Principles/test/*
+
+Final/1/Evaluation instructions.md
+Final/2/Evaluation instructions.md
+Final/3/Evaluation instructions.md
+

@@ -1,8 +1,5 @@
 
-import java.net.Socket;
 import java.util.Scanner;
-
-import javax.print.attribute.standard.MediaSize.ISO;
 
 // Custom exception class for invalid email format
 class InvalidEmailFormat extends Exception {

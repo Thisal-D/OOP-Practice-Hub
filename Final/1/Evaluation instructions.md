@@ -29,7 +29,7 @@ Hi! I’ve created a 6-question practice paper for our OOP module exam. Below is
 * [Answer 1](https://github.com/Thisal-D/OOP-Test/blob/main/Final/1/answers/1.java)
 * [Answer 2](https://github.com/Thisal-D/OOP-Test/blob/main/Final/1/answers/2.md)
 * [Answer 3](https://github.com/Thisal-D/OOP-Test/blob/main/Final/1/answers/3.java)
-* [Answer 4](https://github.com/Thisal-D/OOP-Test/blob/main/Final/1/answers/4.4java)
+* [Answer 4](https://github.com/Thisal-D/OOP-Test/blob/main/Final/1/answers/4.java)
 * [Answer 5A](https://github.com/Thisal-D/OOP-Test/blob/main/Final/1/answers/5A.java)
 * [Answer 5B](https://github.com/Thisal-D/OOP-Test/blob/main/Final/1/answers/5B.java)
 

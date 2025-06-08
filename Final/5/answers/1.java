@@ -46,7 +46,7 @@ class TableReservation {
         System.out.println("Table Size: " + tableSize);
         System.out.println("Reserved Seats: " + reservedSeats);
         System.out.println("Available Seats: " + (tableSize - reservedSeats));
-        System.out.println("Is Reserved: " + (isReserved ? "Yes" : "No"));
+        System.out.println("Is Reserved: " + (isReserved ? "Reserved" : "Available"));
         System.out.println("-----------------------------");
     }
 }

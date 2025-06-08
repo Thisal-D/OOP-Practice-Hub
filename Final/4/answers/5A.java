@@ -33,11 +33,13 @@ class NotificationService {
 class Main {
     public static void main(String[] args) {
         // Dependency injection with EmailService
-        NotificationService emailNotification = new NotificationService(new EmailService());
+        EmailService emailService = new EmailService();
+        NotificationService emailNotification = new NotificationService(emailService);
         emailNotification.sendNotification("Hello via Email");
 
         // Dependency injection with SMSService
-        NotificationService smsNotification = new NotificationService(new SMSService());
+        SMSService smsService = new SMSService();
+        NotificationService smsNotification = new NotificationService(smsService);
         smsNotification.sendNotification("Hello via SMS");
     }
 }

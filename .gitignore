@@ -1,7 +1,4 @@
 *.class
-Final/6/answers/*
-Final/7/*
-Final/8/*
-Final/9/*
-Final/10/*
+
 Solid Principles/test/*
+*.xml

@@ -1,4 +1,7 @@
 *.class
-
 Solid Principles/test/*
 *.xml
+*.iml
+*.json
+.vscode
+*.

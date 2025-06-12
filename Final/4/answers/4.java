@@ -1,14 +1,12 @@
 class Company {
     private String companyID;
     private String companyName;
-    private Employee[] employees;
-    private int employeeCount;
+    private Employee[] employees = new Employee[5] ;
+    private int employeeCount = 0;
 
     public Company(String companyID, String companyName) {
         this.companyID = companyID;
         this.companyName = companyName;
-        this.employees = new Employee[5];
-        this.employeeCount = 0;
     }
 
     public String getCompanyName() {

@@ -2,7 +2,7 @@
 
 Welcome to the **OOP-Test** repository!
 
-This repository provides a curated set of questions and exercises on Object-Oriented Programming (OOP). Whether you’re learning, practicing, or preparing for interviews, you’ll find valuable resources here to deepen your understanding of OOP concepts.
+This repository provides a curated set of questions and exercises on Object-Oriented Programming (OOP). Whether you’re learning, practicing, or preparing for exams.
 
 ---
 

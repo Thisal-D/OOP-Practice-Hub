@@ -1,6 +1,6 @@
-# OOP-Test
+# OOP Practice Hub
 
-Welcome to the **OOP-Test** repository!
+Welcome to the **oop-practice-hub** repository!
 
 This repository provides a curated set of questions and exercises on Object-Oriented Programming (OOP). Whether you’re learning, practicing, or preparing for exams.
 
